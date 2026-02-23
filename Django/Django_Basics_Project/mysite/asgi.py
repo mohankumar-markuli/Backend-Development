@@ -1,4 +1,9 @@
 """
+ASGI - Asynchronous Server Gateway Interface - is a specification that describes 
+how an asynchronous web server communicates with asynchronous web applications. 
+It allows for a standardized way to deploy and runPython web applications 
+that can handle asynchronous tasks, including those built with Django.
+
 ASGI config for mysite project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
