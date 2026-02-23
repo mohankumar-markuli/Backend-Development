@@ -1,4 +1,8 @@
 """
+WSGI - Web Server Gateway Interface - is a specification that describes how a web server 
+communicates with web applications. It allows for a standardized way to deploy and run
+Python web applications, including those built with Django.
+
 WSGI config for mysite project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
